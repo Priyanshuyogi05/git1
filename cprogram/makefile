@@ -1,0 +1,3 @@
+run:
+	gcc h.c -o h
+	./h
